@@ -50,4 +50,4 @@ To get all the fans of a team, we build a query on our FanTeam class:
 bulls_fans = Fanteam.query(team=da_bulls).fetch()
 ```
 
-<a href='https://learn.co/lessons/cssi-9.4-appengine-datastore-many-to-many' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-9.4-appengine-datastore-many-to-many' title='App Engine Many-to-Many Relationships'>App Engine Many-to-Many Relationships</a> on Learn.co and start learning to code for free.</p>
